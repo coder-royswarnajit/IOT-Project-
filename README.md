@@ -57,4 +57,4 @@ Demo Photo: https://drive.google.com/file/d/1n-G39SEGDd55m0mypEIfikVVE0j5e5tz/vi
 
 A short demo video or screen recording of the working simulation should be added here.
 
-📌 [Upload your video to the repo (in /demo folder) or link it via YouTube/Drive]
+
