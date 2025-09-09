@@ -1,4 +1,5 @@
 Solar-Powered Battery Charging System (Cisco Packet Tracer Simulation)
+
 📝 Aim
 
 To design and simulate a battery charging system powered by a solar panel using Cisco Packet Tracer, demonstrating how renewable energy can be utilized for sustainable power management in IoT environments.
